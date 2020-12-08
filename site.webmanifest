@@ -2,7 +2,7 @@
   "short_name": "Conway",
   "name": "Conway",
   "icons": [{
-    "src": "icon.png",
+    "src": "icons/icon.png",
     "type": "image/png",
     "sizes": "192x192"
   }],
